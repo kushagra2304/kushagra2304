@@ -17,10 +17,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" style="border-radius: 50%;" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB" style="border-radius: 50%;" alt="Python"/>
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB" style="border-radius: 50%;" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933" style="border-radius: 50%;" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791" style="border-radius: 50%;" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" style="border-radius: 50%;" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" style="border-radius: 50%;" />
 </div>
