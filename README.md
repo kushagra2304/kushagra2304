@@ -22,4 +22,5 @@
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933" style="border-radius: 50%;" />
   <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791" style="border-radius: 50%;" />
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" style="border-radius: 50%;" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396" style="border-radius: 50%;" alt="Java"/>
 </div>
