@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/kushagra_sharmaaa?igsh=ODMwZHJlemRhM2l2&utm_source=qr)
+(https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/kushagra_sharmaaa?igsh=ODMwZHJlemRhM2l2&utm_source=qr)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
