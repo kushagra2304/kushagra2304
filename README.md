@@ -17,24 +17,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 300px; height: 300px; position: relative;">
-    <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);">
-      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/>
-    </div>
-    <div style="position: absolute; top: 50%; left: 100%; transform: translateY(-50%) translateX(-50%);">
-      <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
-    </div>
-    <div style="position: absolute; top: 100%; left: 50%; transform: translateY(-50%) translateX(-50%);">
-      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
-    </div>
-    <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%) translateX(50%);">
-      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"/>
-    </div>
-    <div style="position: absolute; top: 25%; left: 75%; transform: translateY(-50%) translateX(-50%);">
-      <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" alt="SQL"/>
-    </div>
-    <div style="position: absolute; top: 75%; left: 25%; transform: translateY(-50%) translateX(50%);">
-      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB"/>
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" style="border-radius: 50%;" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB" style="border-radius: 50%;" alt="Python"/>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB" style="border-radius: 50%;" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933" style="border-radius: 50%;" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791" style="border-radius: 50%;" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" style="border-radius: 50%;" alt="MongoDB"/>
 </div>
