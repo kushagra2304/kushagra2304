@@ -1,7 +1,6 @@
 <h1 align="center">Hey, This is Kushagra Sharma</h1>
 <h3 align="center">An aspiring developer who is learning a new skill everyday</h3>
-
-- 🌱 I’m currently learning **Web Development and Java**
+-🌱 I’m currently learning **Web Development and Java**
 
 -💞️ I’m looking to collaborate on new projects on web development
 
