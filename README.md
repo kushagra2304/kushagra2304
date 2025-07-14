@@ -9,6 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">buildwithkushagra@gmail.com</h4>
 <p align="left">
 
 </p>
