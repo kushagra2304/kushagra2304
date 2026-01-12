@@ -59,3 +59,6 @@ LangChain, and vector databases to solve real-world problems.
   <img src="https://img.shields.io/badge/-LangChain-333333?style=flat"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032"/>
 </div>
+
+
+
