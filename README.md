@@ -135,20 +135,6 @@ Real-time **AI mock interviews**: P2P video, live transcription, LLM scoring.
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kushagra2304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra2304&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra2304&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
 ### 🌱 Currently Leveling Up
 `Advanced RAG (hybrid search, reranking)` · `LangGraph agents` · `LLM observability` · `AWS`
 
